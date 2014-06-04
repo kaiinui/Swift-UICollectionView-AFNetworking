@@ -1,0 +1,1 @@
+PODS_COCOASPDY_OTHER_LDFLAGS = -lz -framework CFNetwork
