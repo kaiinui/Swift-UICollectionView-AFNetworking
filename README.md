@@ -10,3 +10,7 @@ CAUTION
 - !! Highly Experimental
 - !! Not Refactored
 - !! Not Tested
+
+You might also like..
+---
+https://github.com/kaiinui/Swift-UICollectionView-WebP for more efficient/easy implementation. (uses `SDWebImage`)
